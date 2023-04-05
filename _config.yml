@@ -1,40 +1,5 @@
-# Site Specific Configuration
-name: LightSpeed
-description: A simple Jekyll theme
-url: https://example.com
-author: tajacks
-timezone: America/Toronto
-timezone_short: ET
-
-# Keywords
-keywords: ['seo', 'key', 'words']
-
-# Styling
-sass:
-  sass_dir: _sass
-  style: expanded # compressed, compact, expanded or compressed
-
-# Paginate
-pagination:
-  enabled: true
-  # Value set low for demonstration purposes
-  per_page: 3
-  sort_field: 'date'
-  sort_reverse: true
-
-# Category Paginating
-autopages:
-  enabled: true
-  categories:
-    title: 'Posts in category :cat'
-    permalink: '/category/:cat'
-    silent: false
-
-# Exclusions
-exclude: [ 'README.md', 'COPYING' ]
-
-# Plugins
-plugins:
-  - jekyll-feed
-  - jekyll-paginate-v2
-  - jekyll-seo-tag
+title: PSW hub
+description: (P)- Physics (C)- Chemistry (B)- Biology (T)- Text (G)- Grammar (Po)- Pome (H)- History (Ge)- Geography (Pol)- Politics (E)- Economics (EXQ)- Ex_questions .
+show_downloads: false
+google_analytics:
+theme: jekyll-theme-hacker
