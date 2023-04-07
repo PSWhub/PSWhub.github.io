@@ -1,5 +1,6 @@
 title: PSW hub
 description: (P)- Physics (C)- Chemistry (B)- Biology (T)- Text (G)- Grammar (Po)- Poem (H)- History (Ge)- Geography (Pol)- Politics (E)- Economics (EXQ)- Ex_questions .
 show_downloads: false
+overflow: auto
 google_analytics:
 theme: jekyll-theme-hacker
