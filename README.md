@@ -1,4 +1,4 @@
-# _*<a href="style.css" class="button">Rules</a>*_
+# _*<a href="index.html" class="button">Rules</a>*_
 -------------------------------------
 # _Math_          
 
