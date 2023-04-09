@@ -1,4 +1,5 @@
-# _*Rules*_
+# _*<button type="Rules class="btn">Rules</button>*_
+< link rel="stylesheet" href="stye.css
 -------------------------------------
 # _Math_          
 
